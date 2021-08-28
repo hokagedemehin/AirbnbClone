@@ -25,7 +25,7 @@ export const Footer = () => {
         <p>Next JS </p>
         <p>Firebase</p>
         <p>Tailwind CSS</p>
-        <p>Join Now</p>
+        <p>Join us Now</p>
       </div>
       <div className="space-y-4 text-xs text-gray-800 my-3">
         <h5 className="font-bold">SUPPORT</h5>
