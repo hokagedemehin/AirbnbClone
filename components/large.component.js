@@ -2,7 +2,7 @@ import Image from "next/image";
 import React from "react";
 
 export const LargeCard = ({ img, title, description, buttonText }) => {
-  console.log(img);
+  // console.log(img);
   return (
     <section className="py-16 cursor-pointer relative">
       {/* <p>Large Image here</p> */}
